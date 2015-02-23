@@ -1,4 +1,4 @@
-// Debug: Autolayout Trace
+// Debugger: Autolayout Trace
 // Gives View Hierarchy
 //
 // IDECodeSnippetCompletionPrefix: trace
